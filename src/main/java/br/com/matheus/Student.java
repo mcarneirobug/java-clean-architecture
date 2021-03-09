@@ -13,6 +13,12 @@ public class Student {
 
     private List<Phone> phones = new ArrayList<>();
 
+    public Student(String name, CPF cpf, Email email) {
+        this.name = name;
+        this.cpf = cpf;
+        this.email = email;
+    }
+
     public void addPhone(String ddd, String number) {
         this.phones.add(new Phone(ddd, number));
     }
