@@ -1,4 +1,4 @@
-package br.com.matheus;
+package br.com.matheus.school.domain.student;
 
 import java.util.ArrayList;
 import java.util.List;

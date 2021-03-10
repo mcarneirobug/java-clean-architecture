@@ -1,4 +1,6 @@
-package br.com.matheus;
+package br.com.matheus.school.domain.recommendation;
+
+import br.com.matheus.school.domain.student.Student;
 
 import java.time.LocalDateTime;
 
