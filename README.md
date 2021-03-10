@@ -1,4 +1,6 @@
-<h1>Java - Clean Architecture</h1>
+<h1 align="center">
+    <span>Java - Clean Architecture</span>
+</h1>
 
 ### O projeto irá seguir o seguinte modelo de arquitetura, inspirado no Clean Architecture
 
