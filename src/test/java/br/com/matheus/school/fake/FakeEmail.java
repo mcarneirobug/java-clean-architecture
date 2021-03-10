@@ -1,6 +1,6 @@
-package br.com.matheus.fake;
+package br.com.matheus.school.fake;
 
-import br.com.matheus.Email;
+import br.com.matheus.school.domain.student.Email;
 
 public class FakeEmail {
 

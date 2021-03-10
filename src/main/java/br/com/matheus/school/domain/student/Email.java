@@ -1,4 +1,4 @@
-package br.com.matheus;
+package br.com.matheus.school.domain.student;
 
 public class Email {
 

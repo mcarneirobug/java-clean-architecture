@@ -1,6 +1,6 @@
-package br.com.matheus;
+package br.com.matheus.school.domain.student;
 
-import br.com.matheus.fake.FakeEmail;
+import br.com.matheus.school.fake.FakeEmail;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -1,6 +1,6 @@
-package br.com.matheus;
+package br.com.matheus.school.domain.student;
 
-import br.com.matheus.fake.FakeCPF;
+import br.com.matheus.school.fake.FakeCPF;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
